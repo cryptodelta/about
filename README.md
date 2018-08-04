@@ -362,7 +362,7 @@
 			<div class="accordion-content open">
 				ForkDelta is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange. ForkDelta currently acts as an open source, updated interface for EtherDelta's smart contract with an active and public development team.
 				<br /><br />
-				The official URL is <a href="https://forkdelta.github.io/">https://forkdelta.github.io/</a>
+				The official URL is <a href="https://cryptodelta.github.io">https://cryptodelta.github.io</a>
 			</div>
 
 			<h4 class="accordion-toggle">What is a decentralized exchange?</h4>
